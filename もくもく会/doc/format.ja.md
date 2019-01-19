@@ -329,6 +329,7 @@ V1 --> V6 --|
 4. <imgdir>/<chapid>/<id>.<ext>
 5. <imgdir>/<chapid>-<id>.<ext>
 6. <imgdir>/<id>.<ext>
+7. <imgdir>/
 ```
 
 * `<imgdir>` はデフォルトでは images ディレクトリです。
